@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Claude 3.7 ultrapassa GPT-4o em benchmarks de raciocínio complexo",
+    "source": "Anthropic",
+    "time": "2h atrás",
+    "url": "#"
+  },
+  {
+    "id": "2",
+    "title": "n8n lança suporte nativo a MCP servers em fluxos de trabalho",
+    "source": "n8n Blog",
+    "time": "1d atrás",
+    "url": "#"
+  },
+  {
+    "id": "3",
+    "title": "FastAPI 0.115 adiciona suporte a streaming de respostas nativo",
+    "source": "GitHub",
+    "time": "3d atrás",
+    "url": "#"
+  },
+  {
+    "id": "4",
+    "title": "Vercel AI SDK 3.4 simplifica integração de tools em streaming",
+    "source": "Vercel",
+    "time": "5d atrás",
+    "url": "#"
+  },
+  {
+    "id": "5",
+    "title": "Supabase lança Edge Functions com suporte a WebSockets",
+    "source": "Supabase",
+    "time": "1sem atrás",
+    "url": "#"
+  }
+]
